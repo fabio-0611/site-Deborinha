@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.womgp.com/blog/wp-content/uploads/2020/08/diseno-paginas-web.jpg"width="300px"></p>
 <hr>
- <h1 align="center">Aplicação Web</h1>[reademe.md](https://github.com/fabio-0611/site-Deborinha/files/10296948/reademe.md)
+ <h1 align="center">Aplicação Web</h1>
 Foi desenvolvido todo o projeto com o desenvolvimento front-end, visando em toda parte da programação relativa à interface da aplicação, podendo ter uma aplicação gráfica do projeto. Ou seja, com a qual o usuário irá interagir diretamente,nesse caso um sites. Trabalhando diretamente com grid-layout<br>
 <p align="justify">
 Utlizando o HTML 5 que é uma linguagem de marcação de Hipertexto (HyperText Markup Language) que trabalha com as bases do HTML clássico, mas possui tags adicionais que permitiu criar um sites mais modernos e mais compatíveis com as tecnologias digitais atuais.<br>
