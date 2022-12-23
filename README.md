@@ -1,11 +1,6 @@
 <p align="center"><img src="https://www.womgp.com/blog/wp-content/uploads/2020/08/diseno-paginas-web.jpg"width="300px"></p>
 <hr>
- <h1 align="center">Aplicação Web</h1>
- <hr>
-
-# <p align="center">Descrição</p>
-<p align="justify">
-Projeto criado para divugação de um blog<b><i> para uma cliente mirim, que já efetua alguns trabalhos fotograficos</b></i>, houve à necessidade da criação de uma aplicação web que fica disponível em uma plataforma gratuita, para melhor apresentação da sua imagem, então foi criado um site com apenas uma página em HTML5/CSS3 bem robusto. Como é para um blog focamos em um site totalmente voltado com imagens, trabalhando muito com grids.<p align="justify">
+ <h1 align="center">Aplicação Web</h1>[reademe.md](https://github.com/fabio-0611/site-Deborinha/files/10296948/reademe.md)
 Foi desenvolvido todo o projeto com o desenvolvimento front-end, visando em toda parte da programação relativa à interface da aplicação, podendo ter uma aplicação gráfica do projeto. Ou seja, com a qual o usuário irá interagir diretamente,nesse caso um sites. Trabalhando diretamente com grid-layout<br>
 <p align="justify">
 Utlizando o HTML 5 que é uma linguagem de marcação de Hipertexto (HyperText Markup Language) que trabalha com as bases do HTML clássico, mas possui tags adicionais que permitiu criar um sites mais modernos e mais compatíveis com as tecnologias digitais atuais.<br>
